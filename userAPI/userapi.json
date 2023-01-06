@@ -1,0 +1,19 @@
+[
+    {
+    "id":1,
+    "user":"tazmeen",
+    "age":22,
+    "gender":"female",
+    "number":"09876543",
+    "email":"tazmeenilsa@gmail.com"
+},
+{
+    "id":2,
+    "user":"humaira",
+    "age":20,
+    "gender":"female",
+    "number":"04546443",
+    "email":"humaira@gmail.com"
+}
+
+]
